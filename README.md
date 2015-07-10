@@ -1,0 +1,1 @@
+# Flapper News - for practicing mean structure purpose
