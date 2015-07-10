@@ -1,1 +1,1 @@
-# Flapper News - for practicing mean structure purpose
+# Flapper News - for practicing Angular purpose
